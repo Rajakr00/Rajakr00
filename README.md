@@ -4,8 +4,6 @@
 
 B.S. in Data Science and Applications, Indian Institute of Technology Madras (2021-2025).
 
-B.E. in Civil Engineering, B.M.S College of Engineering, Bangalore (2018-2022)
-
 GATE Qualified in Computer Science and Data Science.
 
 💻 Skills
